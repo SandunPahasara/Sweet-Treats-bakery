@@ -1,0 +1,56 @@
+/* Basic Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #f8b400;
+    padding: 20px;
+    text-align: center;
+}
+nav a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+/* Section Styling */
+section {
+    padding: 40px 20px;
+    text-align: center;
+}
+
+/* Table Styling */
+table {
+    margin: 0 auto;
+    border-collapse: collapse;
+    width: 80%;
+}
+th, td {
+    border: 1px solid #ddd;
+    padding: 10px;
+}
+
+/* Gallery Images */
+.images img {
+    width: 150px;
+    margin: 10px;
+    border-radius: 10px;
+    transition: transform 0.3s;
+}
+.images img:hover {
+    transform: scale(1.2); /* Simple animation */
+}
+
+/* Responsive Design */
+@media (max-width: 600px) {
+    nav a {
+        display: block;
+        margin: 10px 0;
+    }
+    .images img {
+        width: 100px;
+    }
+}
