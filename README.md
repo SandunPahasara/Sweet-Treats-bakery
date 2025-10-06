@@ -13,7 +13,12 @@ Live demo
 
 Screenshot
 
-![Sweet Treats screenshot](assets/screenshot.png)
+<img width="1920" height="1080" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/1a8eb392-3917-4ced-93af-7f433a424eb2" />
+<img width="1920" height="1080" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/e5fff8ca-e4fb-446d-858b-ae88e5c7d564" />
+<img width="1920" height="1080" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/39fa5420-b0a5-41c0-9249-e4742745099e" />
+<img width="1920" height="1080" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/462a28e6-b8ca-4e0e-affa-6b9a55080845" />
+<img width="1920" height="1080" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/b7115237-cd69-4e29-8172-211008d27525" />
+
 
 If the image above doesn't display, add a screenshot at `assets/screenshot.png` (recommended size: 1200×700 px).
 
