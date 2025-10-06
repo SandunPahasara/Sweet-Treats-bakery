@@ -9,7 +9,7 @@ Special notes
 
 Live demo
 
-- (If you host a demo, add the URL here.)
+- https://sweet-treats-bakery.vercel.app/
 
 Screenshot
 
@@ -20,7 +20,6 @@ Screenshot
 <img width="1920" height="1080" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/b7115237-cd69-4e29-8172-211008d27525" />
 
 
-If the image above doesn't display, add a screenshot at `assets/screenshot.png` (recommended size: 1200×700 px).
 
 Features
 
